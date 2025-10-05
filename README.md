@@ -21,6 +21,7 @@
 - **CSS3** - Diseño responsive y animaciones
 - **JavaScript** - Lógica de juegos y interactividad
 - **LocalStorage** - Persistencia de datos
+- **IA** - Notebooklm.google.com con las clases vistas cargadas
 
 ## 📱 Responsive Design
 
